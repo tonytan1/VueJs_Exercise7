@@ -15,7 +15,7 @@ export default {
         }
     },
     methods: {
-        resetStatus: function(){
+        resetStatus: function () {
             this.server.status = 'normal';
         }
     },
